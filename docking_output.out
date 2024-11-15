@@ -1,0 +1,11 @@
+CPU(s):                          112
+Number of boxes: 27
+Generating the gpf files... done.
+Calculating the maps...Started molecule maps calculation with 27 worker processes...
+done.
+Generating the dpf files...done.
+Calculating the docking...Started docking calculation with 27 worker processes...
+done.
+Extracting the best poses...done.
+Extracting the best pose of best poses...done.
+Best pose: output/best_poses/galactose_box1_best.pdb score: -5.28

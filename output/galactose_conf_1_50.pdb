@@ -1,0 +1,19 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+ATOM      1  C1  GAL A 900      -4.943  -7.299   5.715 -0.22 -0.55      gala C  
+ATOM      2  C2  GAL A 900      -3.537  -6.655   5.752 -0.41 -0.35      gala C  
+ATOM      3  C3  GAL A 900      -2.601  -7.414   6.713 -0.41 -0.32      gala C  
+ATOM      4  C4  GAL A 900      -3.244  -7.627   8.075 -0.45 -0.29      gala C  
+ATOM      5  C5  GAL A 900      -4.597  -8.357   7.843 -0.43 -0.27      gala C  
+ATOM      6  O5  GAL A 900      -5.417  -7.509   7.046 -0.13  0.52      gala O  
+ATOM      7  C6  GAL A 900      -5.391  -8.716   9.103 -0.44 -0.27      gala C  
+ATOM      8  O6  GAL A 900      -4.613  -8.550  10.312 -0.38  0.71      gala O  
+ATOM      9  H6  GAL A 900      -4.235  -7.682  10.384 -0.26 -0.61      gala H  
+ATOM     10  O4  GAL A 900      -3.466  -6.393   8.771 -0.29  0.81      gala O  
+ATOM     11  H4  GAL A 900      -4.036  -6.501   9.523 -0.27 -0.72      gala H  
+ATOM     12  O1  GAL A 900      -5.930  -6.418   5.145 -0.15  0.72      gala O  
+ATOM     13  H1  GAL A 900      -6.121  -6.631   4.239 -0.28 -0.69      gala H  
+ATOM     14  O3  GAL A 900      -1.361  -6.750   6.914 -0.92  0.38      gala O  
+ATOM     15  H3  GAL A 900      -1.326  -6.274   7.735  0.09 -0.20      gala H  
+ATOM     16  O2  GAL A 900      -2.940  -6.659   4.469 -0.90  0.83      gala O  
+ATOM     17  H2  GAL A 900      -2.106  -7.115   4.481 -0.36 -0.64      gala H  
+TER      18      GAL A 900 
